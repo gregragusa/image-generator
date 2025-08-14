@@ -9,8 +9,8 @@ AR_PRESETS = {
 }
 
 def main():
-    st.set_page_config(page_title="Wealth Vision – Batch Generator")
-    st.title("Wealth Vision – Generatore batch per Ideogram")
+    st.set_page_config(page_title="Greg il Magnifico – Batch Generator")
+    st.title("Greg il Magnifico – Generatore batch per Ideogram")
 
     st.write("Inserisci la tua API key Ideogram e i prompt (uno per riga). "
              "Scegli il formato e scarica direttamente lo ZIP (le anteprime non vengono mostrate).")
